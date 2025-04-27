@@ -196,8 +196,8 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline">FENOMENAL</a>
+            <a href="#" class="text-xs hover:underline">DOROFEEVA</a>
           </div>
           <div
             class="group flex flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d]"
@@ -210,8 +210,8 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline">No Glatcher 2</a>
+            <a href="#" class="text-xs hover:underline">FRIENDLY THUG</a>
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] sm:flex"
@@ -224,8 +224,8 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline">Родная Душа</a>
+            <a href="#" class="text-xs hover:underline">PHARAON</a>
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] md:flex"
@@ -238,8 +238,8 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline">What Was That</a>
+            <a href="#" class="text-xs hover:underline">Lorde</a>
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] lg:flex"
@@ -252,8 +252,8 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline">Fake ID</a>
+            <a href="#" class="text-xs hover:underline">kizary, ICEGERGERT</a>
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] xl:flex"
@@ -266,8 +266,10 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline"
+              >Where's Your Head At</a
+            >
+            <a href="#" class="text-xs hover:underline">Basement Jaxx</a>
           </div>
           <div
             class="group hidden gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] 2xl:flex 2xl:flex-col"
@@ -281,8 +283,10 @@ import FacebookLogo from "./components/FacebookLogo.vue";
               </div>
             </div>
 
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline"
+              >Starboy (feat. Daft Punk)</a
+            >
+            <a href="#" class="text-xs hover:underline">The Weekend</a>
           </div>
         </section>
         <div class="flex items-center justify-between p-2">
@@ -291,7 +295,7 @@ import FacebookLogo from "./components/FacebookLogo.vue";
         </div>
         <section class="flex items-center justify-between">
           <div
-            class="group flex flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d]"
+            class="group flex flex-col items-center gap-2 rounded-xl p-4 hover:bg-[#2d2d2d]"
           >
             <div class="relative">
               <img src="/img/popular-artists/1.jpg" class="rounded-full" />
@@ -301,11 +305,13 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-center font-semibold hover:underline"
+              >MORGENSHTERN</a
+            >
+            <a href="#" class="text-xs">Artist</a>
           </div>
           <div
-            class="group flex flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d]"
+            class="group flex flex-col items-center gap-2 rounded-xl p-4 hover:bg-[#2d2d2d]"
           >
             <div class="relative">
               <img src="/img/popular-artists/2.jpg" class="rounded-full" />
@@ -315,11 +321,11 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline">Asap Rocky</a>
+            <a href="#" class="text-xs">Artist</a>
           </div>
           <div
-            class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] sm:flex"
+            class="group hidden flex-col items-center gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] sm:flex"
           >
             <div class="relative">
               <img src="/img/popular-artists/3.jpg" class="rounded-full" />
@@ -329,11 +335,13 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-center font-semibold hover:underline">
+              BOOMBOX</a
+            >
+            <a href="#" class="text-xs">Artist</a>
           </div>
           <div
-            class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] lg:flex"
+            class="group hidden flex-col items-center gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] lg:flex"
           >
             <div class="relative">
               <img src="/img/popular-artists/4.jpg" class="rounded-full" />
@@ -343,11 +351,13 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-center font-semibold hover:underline"
+              >The Weekend</a
+            >
+            <a href="#" class="text-xs">Artist</a>
           </div>
           <div
-            class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] xl:flex"
+            class="group hidden flex-col items-center gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] xl:flex"
           >
             <div class="relative">
               <img src="/img/popular-artists/5.jpg" class="rounded-full" />
@@ -357,11 +367,13 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-center font-semibold hover:underline"
+              >Drake</a
+            >
+            <a href="#" class="text-xs">Artist</a>
           </div>
           <div
-            class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] 2xl:flex"
+            class="group hidden flex-col items-center gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] 2xl:flex"
           >
             <div class="relative">
               <img src="/img/popular-artists/6.jpg" class="rounded-full" />
@@ -371,11 +383,11 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline">LEDI GAGA</a>
+            <a href="#" class="text-xs">Artist</a>
           </div>
           <div
-            class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] 2xl:flex"
+            class="group hidden flex-col gap-2 rounded-xl p-4 text-center hover:bg-[#2d2d2d] 2xl:flex"
           >
             <div class="relative">
               <img src="/img/popular-artists/7.jpg" class="rounded-full" />
@@ -385,8 +397,8 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline">OG BUDA</a>
+            <a href="#" class="text-xs">Artist</a>
           </div>
         </section>
         <div class="flex items-center justify-between p-2">
@@ -407,8 +419,8 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline">MUSIC</a>
+            <a href="#" class="text-xs hover:underline">Playboy Carti</a>
           </div>
           <div
             class="group flex flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d]"
@@ -421,8 +433,8 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline">ЧСВ</a>
+            <a href="#" class="text-xs hover:underline">Lida & Серега Пират</a>
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] sm:flex"
@@ -435,8 +447,8 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline">ALISHER</a>
+            <a href="#" class="text-xs hover:underline">MORGENSHTERN</a>
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] lg:flex"
@@ -449,8 +461,8 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline">Паки-пуси</a>
+            <a href="#" class="text-xs hover:underline">Пошлая Молли</a>
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] xl:flex"
@@ -463,8 +475,8 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline">Кайен</a>
+            <a href="#" class="text-xs hover:underline">Валентин Стрыкало</a>
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] 2xl:flex"
@@ -477,8 +489,8 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline">God's Plan</a>
+            <a href="#" class="text-xs hover:underline">Drake</a>
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] 2xl:flex"
@@ -491,8 +503,10 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="font-semibold hover:underline"
+              >Stay (feat. Mikky Ekko)</a
+            >
+            <a href="#" class="text-xs hover:underline">Rianna</a>
           </div>
         </section>
         <div class="flex items-center justify-between p-2">
@@ -511,8 +525,9 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-xs"
+              >With Zhadan i Sobaky, Tartak, Antytila and more</a
+            >
           </div>
           <div
             class="group flex flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d]"
@@ -525,8 +540,9 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-xs"
+              >With Druha Rika, Antytila, Odyn v Kanoe and more</a
+            >
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] sm:flex"
@@ -539,8 +555,9 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-xs"
+              >With Tima Belorusskih, KRBK, Канги and more</a
+            >
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] md:flex"
@@ -553,8 +570,9 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-xs"
+              >With Twenty One Pilots, Coldplay, Avicii and more</a
+            >
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] lg:flex"
@@ -567,8 +585,9 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-xs"
+              >With Golubenko, Wellboy, CHEEV and more</a
+            >
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] xl:flex"
@@ -581,8 +600,9 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-xs"
+              >With Klavdia Petrivna, Анна Трінчер, MONATIK and more</a
+            >
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] 2xl:flex"
@@ -595,8 +615,9 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-xs"
+              >With Обильный, Вектор А, TEKSIDR and more</a
+            >
           </div>
         </section>
         <div class="flex items-center justify-between p-2">
@@ -615,8 +636,9 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-xs"
+              >Your weekly update of the most played tracks right now
+            </a>
           </div>
           <div
             class="group flex flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d]"
@@ -629,8 +651,9 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-xs"
+              >Your weekly update of the most played tracks right now
+            </a>
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] sm:flex"
@@ -643,8 +666,9 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-xs"
+              >Your weekly update of the most played tracks right now
+            </a>
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] md:flex"
@@ -657,8 +681,9 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-xs"
+              >Your weekly update of the most played tracks right now
+            </a>
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] lg:flex"
@@ -671,8 +696,9 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-xs"
+              >Your weekly update of the most played tracks right now
+            </a>
           </div>
           <div
             class="group hidden flex-col gap-2 rounded-xl p-4 hover:bg-[#2d2d2d] xl:flex"
@@ -685,8 +711,9 @@ import FacebookLogo from "./components/FacebookLogo.vue";
                 <PlayLogo class="size-10 group-hover:text-blue-300" />
               </div>
             </div>
-            <a href="#" class="font-semibold">Starboy (feat. Daft Punk)</a>
-            <a href="#" class="text-xs">The Weekend</a>
+            <a href="#" class="text-xs"
+              >Your weekly update of the most played tracks right now
+            </a>
           </div>
         </section>
         <footer class="w-full py-4 text-xs">
